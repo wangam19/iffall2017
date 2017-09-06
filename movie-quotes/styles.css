@@ -1,0 +1,23 @@
+		html{
+			font-family:sans-serif;
+			font-size:10pt;
+			background-color:#ef9f00;
+			color:cornsilk;
+		}
+		#movie-title{
+			font-family: cursive;
+			font-size:36pt;
+			color:white;
+
+		}
+	
+		#movie-subtitle{
+			font-size:24pt;
+			color:cornsilk;
+		}
+		strong{
+			color:white;
+		}
+		em{
+			color:white;
+		}

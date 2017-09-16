@@ -1,0 +1,45 @@
+html, body{
+	font-family: 'Raleway' , sans-serif;
+	font-size: 24px;
+}
+
+h2{
+	font-family: 'Arial';
+	color:gray;
+	
+}
+h3{
+	font-family: 'Arial';
+	color:gray;
+	font-size:16px;
+}
+.bold{
+	font-weight:bold;
+}
+.italic{
+	font-style: italic;
+}
+.posspacing{
+	letter-spacing: .3em;
+}
+.negspacing{
+	letter-spacing: -.06em;
+}
+.underline{
+	text-decoration: underline;
+}
+.line-through{
+	text-decoration: line-through;
+}
+.overline{
+	text-decoration: overline;
+}
+.uppercase{
+	text-transform: uppercase;
+}
+.lowercase{
+	text-transform: lowercase;
+}
+.capitalize{
+	text-transform: capitalize;
+}

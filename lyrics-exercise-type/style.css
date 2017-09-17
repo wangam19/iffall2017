@@ -1,0 +1,25 @@
+html{
+	color:purple;
+	font-size:11pt;
+	font-family: 'Roboto', sans-serif;
+}
+.title{
+	font-family: 'Indie Flower', cursive;
+	font-size: 60pt;
+}
+.troy{
+	color:cyan;
+}
+.gabriella{
+	color:magenta;
+}
+.both{
+	color:purple;
+}
+.heading{
+	color:purple;
+	font-weight: bold;
+}
+.chorus{
+	font-style: italic;
+}

@@ -1,0 +1,54 @@
+html{
+
+}
+header{
+	margin-bottom: 3rem;
+}
+body{
+	line-height:1.6;
+}
+.see-all{
+	font-size: .08em;
+	text-transform: uppercase;
+}
+h1{
+	font-size:2.5rem;
+	font-weight: lighter;
+	border-top-width: 1px ;
+	border-top-style: solid;
+	border-top-color: black;
+}
+h2{
+	font-size:1rem;
+	text-transform: uppercase;
+	font-weight: lighter;
+}
+img{
+	width:100%;
+}
+.cast li{
+	width:25%;
+}
+.selected{
+	font-weight: bold;
+	color:black;
+}
+nav a:visited{
+	color:black;
+}
+.cast{
+	font-size: .08rem;
+}
+.cast div{
+	font-weight: bold;
+}
+.cast div+div{
+	font-style: italic;
+}
+.seasons:last-child:after {
+	content:"*";
+}
+
+
+
+

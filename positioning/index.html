@@ -37,29 +37,38 @@
 		#one{
 			float: right;
 		}
+
+		#second-section{
+			position:relative;
+		}
 		#two{
 			position:absolute;
-			left: 882px;
-			top: 846px;
+			right:0px;
+			bottom:0px;
 		}
 		#three{
 			background-color: green;
 			position:fixed;
+			z-index: 1;
 			top: 0px;
 			right:0;
+		}
+		#last-section {
+			position:relative;
 		}
 		#five{
 			background-color: red;
 			position:absolute;
-			top: 1935px;
-			left: 550px;
+			top:calc(50% - 107px);
+			left:calc(50% - 144px);
 		}
 		#four{
 			background-color: black;
 			position:absolute;
-			top: 1945px;
-			left: 560px;
+			top:calc(50% - 97px);
+			left:calc(50% - 134px);
 		}
+	
 
 	</style>
 </head>
@@ -77,7 +86,7 @@
 		
 	</section>
 
-	<section>
+	<section id ="second-section">
 
 		<h1>Place the callout in the lower-right corner of this section. It is ok if it covers the paragraph text.</h1>
 
@@ -101,7 +110,7 @@
 		
 	</section>
 
-	<section>
+	<section id="last-section">
 
 		<h1>Make the background of the first callout red and the background of the second callout black. Position both callouts in the center of the section covering the text, with the red callout on top of the black callout. The black callout should be positioned to the right and lower than the red callout, making a hard, 10px black drop shadow.</h1>
 

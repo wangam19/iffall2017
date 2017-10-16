@@ -1,0 +1,54 @@
+html{
+	color:#9b486f;
+	font-size:10pt;
+	font-family: 'Open Sans', sans-serif;
+	background-image: url("images/milkshake-background.jpg");
+	background-repeat: no-repeat;
+    background-position: top;
+    background-attachment: fixed;
+   
+    margin-left: 30px;
+    margin-right:30px;
+    margin-bottom: -500px
+}
+
+#help{
+	position:absolute;
+	margin-left: 350px;
+	margin-top:-40px;
+    width:350px;
+	background-color: rgba(255, 255, 255,0.6);
+ 
+    padding: 40px;
+}
+
+.title{
+	color:white;
+	font-family: 'Roboto', sans-serif;
+	text-transform: capitalize;
+	font-size: 50pt;
+	line-height: 50pt;
+
+}
+.chorus{
+	font-weight: bold;
+}
+.heading{
+	color:white;
+	font-weight: bold;
+}
+
+#milkshake-text{
+	position: absolute;
+	top: -20;
+	right:350px;
+
+}
+#milkshake{
+	position: fixed;
+	top:210px;
+	left:340px;
+	-webkit-transform: rotate(45deg);
+    transform: rotate(45deg);
+
+}

@@ -1,0 +1,65 @@
+html, body{
+	height: 100%;
+	margin: 0;
+	font-family: 'Nunito', sans-serif;
+	
+}
+#index{
+	position: absolute;
+	display: block;
+	width: 100%;
+	height: 100%;
+	top:0;
+	bottom:0;
+	left: 0;
+	right:0;
+}
+@media screen and (min-width: 1100px){
+	body{
+		background-image: url("images/jayden_3.jpg");
+	    background-repeat: no-repeat;
+	  	background-size: cover;
+	  	background-position: bottom right;
+	}
+
+	p{
+		position:absolute;
+		top: 30px;
+		left:90px;s
+		text-align: left;
+		font-size: 22pt;
+		color:#ef0ba7;
+	}
+}
+@media screen and (min-width: 600px) and (max-width: 1100px){
+	body{
+		background-image: url("images/jayden_3.jpg");
+	    background-repeat: no-repeat;
+	  	background-position: bottom center;
+	}
+
+	p{
+		position:absolute;
+		bottom: 40px;
+		left:40px;
+		text-align: left;
+		font-size: 22pt;
+		color: #ef0ba7;
+	}
+}
+@media screen and (max-width: 600px){
+	body{
+		background-image: url("images/jayden_3.jpg");
+	    background-repeat: no-repeat;
+	  	background-position: bottom center;
+	}
+
+	p{
+		position:absolute;
+		bottom: 40px;
+		left:40px;
+		text-align: ;
+		font-size: 18pt;
+		color: #ef0ba7;
+	}
+}

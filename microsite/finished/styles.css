@@ -1,0 +1,236 @@
+html{
+	font-family: 'Fira Sans', sans-serif;
+	color: #318aaf;
+	line-height: 110%
+}
+
+.title{
+	font-family: 'Arvo', serif;
+}
+body{
+	margin:0;
+	font-size: 10pt;
+}
+
+.content{
+	padding-top:80px;
+}
+
+#content{
+	vertical-align: top;
+	display: inline-block;
+	width: 60%;
+}
+
+a#mintro {
+	color:#318aaf;
+}
+
+a#mintro:hover {
+	color:#ff3399;
+}
+
+a#mcast {
+	color:#318aaf;
+}
+
+a#mcast:hover {
+	color:#ff3399;
+}
+
+a#mcrit {
+	color:#318aaf;
+}
+
+a#mcrit:hover {
+	color:#ff3399;
+}
+
+a#minfl {
+	color:#318aaf;
+}
+
+a#minfl:hover {
+	color:#ff3399;
+}
+
+a#madd {
+	color:#318aaf;
+}
+
+a#madd:hover {
+	color:#ff3399;
+}
+
+
+a#nintro {
+	color:#318aaf;
+}
+
+a#nintro:hover {
+	color:#ff3399;
+}
+
+a#ncast{
+	color:#318aaf;
+}
+
+a#ncast:hover {
+	color:#ff3399;
+}
+
+a#ncrit {
+	color:#318aaf;
+}
+
+a#ncrit:hover {
+	color:#ff3399;
+}
+
+a#ninfl {
+	color:#318aaf;
+}
+
+a#ninfl:hover {
+	color:#ff3399;
+}
+
+a#nadd {
+	color:#318aaf;
+}
+
+a#nadd:hover {
+	color:#ff3399;
+}
+
+a#nmenu {
+	color:#318aaf;
+}
+
+a#nmenu:hover {
+	color:#ff3399;
+}
+
+#space{
+	vertical-align: top;
+	display: inline-block;
+	width: 26.3%;
+	height:1200px;
+}
+
+
+h1{
+	color: #ff3399;
+	text-align: left;
+	font-size:40pt;
+	margin-top: 175spx;
+	margin-bottom: 20px;
+}
+
+
+#menu{
+	padding-top: 30px;
+	margin-right: 0;
+
+}
+
+#menu a{
+	display: inline-block;
+	font-size: 15pt;
+	margin-left: 101.5px;
+	text-decoration: none;
+	margin-bottom: 15px;
+	font-weight: bold;
+	color:#318aaf;
+}
+
+
+#menu2{
+	display: none;
+	position:fixed;
+	z-index: 1;
+	top: 80px;
+	left:120px;
+	}
+
+#menu2 a{
+	text-decoration: none;
+	color:#318aaf;
+}
+
+#intro{
+	display: inline-block;
+	text-align: left;
+	padding-bottom:20px;
+}
+
+#intro p{
+	width: 700px;
+	margin-top: -20px;
+}
+
+
+
+h2{
+	margin-top:42px;
+	margin-bottom: -5px;
+	font-size: 40.1px;
+	text-align: center;
+}
+
+
+.pic-1{
+	width:100%;
+	margin-left: 0;
+
+}
+
+.pic-2{
+	float: left;
+	height: 400px;
+	width: 310px;
+ 	margin-bottom: 30px;
+ 	padding-right: 40px;
+}
+
+
+.photo-item{
+	margin-top: 30px;
+	height:100px;
+	width: 25%;
+	display: inline-block;
+	margin-bottom: 20px;
+	}
+
+#cast p{
+
+}
+
+#section-two p{
+	margin-left: 212px;
+	margin-top: -119px;
+	float:left;
+	line-height: 21px;
+}
+
+
+.buttons{
+	color:white;
+	float:right;
+	margin-right: 232px;
+	font-size:30px;
+	margin-top:-25px;
+}
+
+#influence{
+	
+}
+
+#add{
+	margin-bottom: 60px;
+}
+
+#add a{
+	text-decoration: none;
+	color: #318aaf;
+}

@@ -1,0 +1,124 @@
+html{
+	font-family: 'Archivo Narrow';
+	color: #318aaf;
+}
+body{
+	margin:0;
+}
+
+.content{
+	padding-top:80px;
+}
+
+#content{
+	vertical-align: top;
+	display: inline-block;
+	width: 800px;
+}
+#space{
+	vertical-align: top;
+	display: inline-block;
+	width: 430px;
+	height: 1200px;
+}
+
+
+h1{
+	color: #ff3399;
+	text-align: left;
+	font-size:40pt;
+	margin-top: 175spx;
+	margin-bottom: 20px;
+}
+a{
+	display: inline-block;
+	font-size: 15pt;
+	margin-right: 85px;
+	text-decoration: none;
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+
+
+
+#menu{
+	padding-top: 30px;
+	margin-right: 0;
+
+}
+#intro{
+	display: inline-block;
+	text-align: left;
+	padding-bottom:20px;
+}
+
+#intro p{
+	width: 700px;
+	margin-top: -20px;
+}
+
+
+
+h2{
+	margin-top:42px;
+	margin-bottom: -5px;
+	font-size: 40.1px;
+	text-align: center;
+}
+
+
+.pic-1{
+	height: 600px;
+	width: 1350px;
+	margin-left: 0;
+
+}
+
+.pic-2{
+	float: left;
+	height: 400px;
+	width: 310px;
+ 	margin-bottom: 30px;
+ 	padding-right: 40px;
+}
+
+
+.photo-item{
+	margin-top: 30px;
+	height:100px;
+	width: 25%;
+	display: inline-block;
+	margin-bottom: 20px;
+	}
+
+
+h4{
+	margin-left: 13.1px;
+	margin-top: 2.5px;
+	font-size:10pt;
+	float: left;
+}
+
+#section-two p{
+	margin-left: 212px;
+	margin-top: -119px;
+	float:left;
+	line-height: 21px;
+}
+
+
+.buttons{
+	color:white;
+	float:right;
+	margin-right: 232px;
+	font-size:30px;
+	margin-top:-25px;
+}
+
+#influence{
+	
+}
+
+#add{
+	margin-bottom: 60px;
+}

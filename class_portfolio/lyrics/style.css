@@ -1,0 +1,38 @@
+html{
+	color:white;
+	font-size:11pt;
+	font-family: 'Roboto', sans-serif;
+	background-image: url("images/hsm_2.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+body {
+	margin:auto;
+    width:350px;
+    background-color: rgba(128, 103, 140,0.5);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+.title{
+	font-family: 'Indie Flower', cursive;
+	font-size: 60pt;
+	line-height: 50pt;
+}
+.troy{
+	color:cyan;
+}
+.gabriella{
+	color:magenta;
+}
+.both{
+	color:white;
+}
+.heading{
+	color:white;
+	font-weight: bold;
+}
+.chorus{
+	font-style: italic;
+}

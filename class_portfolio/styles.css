@@ -1,0 +1,23 @@
+html{
+	font-family: sans-serif;
+	text-decoration: none;
+	text-align: center;
+}
+
+h1{
+	font-size: 30pt;
+	margin-top: 50px;
+}
+
+.photo-item{
+	margin-top: 50px;
+	display: inline-block;
+	width: 30%;
+	margin-left: -10px;
+
+}
+
+.help{
+
+	text-decoration: none;
+}
